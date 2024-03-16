@@ -1,0 +1,199 @@
+.header {
+  position: fixed;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 100px;
+  z-index: 99;
+  background: transparent;
+  background-color: rgba(204, 200, 200, 0.5);
+  backdrop-filter: blur(10px);
+}
+.header .search {
+  width: max-content;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 30px;
+}
+.header .search .box {
+  padding: 10px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 10px 25px rgba(214, 17, 17, 0.3);
+  border-radius: 30px;
+  align-items: center;
+}
+.header .search .box:hover input {
+  width: 200px;
+}
+.header .search .box input {
+  border-radius: 50px;
+  width: 0;
+  outline: none;
+  border: none;
+  font-weight: 500;
+  transition: 0.8s;
+  color: black;
+  background: transparent;
+}
+.header .search .box a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header .search .box a i {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 18px;
+}
+
+.dropDown .dropdown {
+  border-right: 1px solid rgba(0, 0, 0, 0.5);
+}
+.dropDown .currency {
+  margin-left: 5px;
+}
+.dropDown .dropdown, .dropDown .currency {
+  position: relative;
+  min-width: max-content;
+}
+.dropDown .dropdown .select, .dropDown .currency .select {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.dropDown .dropdown .select span, .dropDown .currency .select span {
+  display: flex;
+  align-items: center;
+}
+.dropDown .dropdown .select i, .dropDown .currency .select i {
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+  transition: 0.3s;
+}
+.dropDown .dropdown .select .caret-rotate, .dropDown .currency .select .caret-rotate {
+  transform: rotate(180deg);
+}
+.dropDown .dropdown .menu, .dropDown .currency .menu {
+  box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 2.5em;
+  left: 50%;
+  width: 100%;
+  background-color: white;
+  transform: translateX(-50%);
+  opacity: 0;
+  display: none;
+  transition: 0.2s;
+  z-index: 1;
+  box-shadow: 1px 1px 1px solid grey;
+}
+.dropDown .dropdown .menu li, .dropDown .currency .menu li {
+  padding-top: 10px;
+  padding-left: 5px;
+  cursor: pointer;
+}
+.dropDown .dropdown .menu-open, .dropDown .currency .menu-open {
+  display: block;
+  opacity: 1;
+}
+
+section {
+  margin-top: 0 !important;
+  margin: 20px 70px;
+}
+section .wrapper {
+  width: 95%;
+  margin: 0 auto;
+}
+section .wrapper #search-container input {
+  background-color: transparent;
+  width: 92%;
+  border: none;
+  border-bottom: 2px solid #110f29;
+  padding: 5px 3px;
+  outline: none;
+}
+section .wrapper #search-container input:focus {
+  border-bottom-color: #19226b;
+}
+section .wrapper #search-container button {
+  padding: 5px 15px;
+  margin-left: 10px;
+  background-color: #19226b;
+  color: #ffffff;
+  border-radius: 5px;
+}
+section .wrapper .btn {
+  border: 2px soli #19226b;
+  padding: 10px 2.2em;
+  border-radius: 3em;
+  background-color: transparent;
+  color: #19226b;
+  cursor: pointer;
+}
+section .wrapper .btn:active {
+  background-color: #110f29;
+  color: #ffffff;
+}
+section .wrapper #products {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-column-gap: 10px;
+  padding: 20px 0;
+}
+section .wrapper #products .card {
+  background-color: #ffffff;
+  max-width: 18em;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 10px 20px 25px rgba(1, 2, 68, 0.08);
+}
+section .wrapper #products .image-container {
+  text-align: center;
+}
+section .wrapper #products img {
+  max-width: 100%;
+  object-fit: contain;
+  height: 15em;
+}
+section .wrapper #products .container {
+  padding-top: 10px;
+  color: #110f29;
+}
+section .wrapper #products .container h5 {
+  font-weight: 500;
+}
+section .wrapper #products .hide {
+  display: none;
+}
+@media screen and (max-width: 720px) {
+  section .wrapper #products img {
+    max-width: 100%;
+    object-fit: contain;
+    height: 100px;
+  }
+  section .wrapper #products .card {
+    max-width: 100px;
+    margin-top: 10px;
+  }
+  section .wrapper #products #products {
+    grid-template-columns: auto auto;
+    grid-column-gap: 5px;
+  }
+}
+
+/*# sourceMappingURL=fun.css.map */

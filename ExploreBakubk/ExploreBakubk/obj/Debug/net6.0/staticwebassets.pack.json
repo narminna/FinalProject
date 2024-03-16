@@ -1,0 +1,193 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\Having fun.jpg",
+      "PackagePath": "staticwebassets\\images\\Having fun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\baku-attractions.jpg",
+      "PackagePath": "staticwebassets\\images\\baku-attractions.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\baku.jpeg",
+      "PackagePath": "staticwebassets\\images\\baku.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\firstimg.jpg",
+      "PackagePath": "staticwebassets\\images\\firstimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\image3.jpg",
+      "PackagePath": "staticwebassets\\images\\image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\image4.jpg",
+      "PackagePath": "staticwebassets\\images\\image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\image5.jpg",
+      "PackagePath": "staticwebassets\\images\\image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\image6.jpg",
+      "PackagePath": "staticwebassets\\images\\image6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\image7.webp",
+      "PackagePath": "staticwebassets\\images\\image7.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img10.jpg",
+      "PackagePath": "staticwebassets\\images\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img11.webp",
+      "PackagePath": "staticwebassets\\images\\img11.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img12.webp",
+      "PackagePath": "staticwebassets\\images\\img12.webp"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img13.jpg",
+      "PackagePath": "staticwebassets\\images\\img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\images\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\images\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img6.jpg",
+      "PackagePath": "staticwebassets\\images\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img7.jpg",
+      "PackagePath": "staticwebassets\\images\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img8.jpg",
+      "PackagePath": "staticwebassets\\images\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\img9.jpg",
+      "PackagePath": "staticwebassets\\images\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\images\\pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg",
+      "PackagePath": "staticwebassets\\images\\pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\img13.jpg",
+      "PackagePath": "staticwebassets\\img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\js\\about.js",
+      "PackagePath": "staticwebassets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\js\\fun.js",
+      "PackagePath": "staticwebassets\\js\\fun.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\css\\about.css",
+      "PackagePath": "staticwebassets\\style\\css\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\css\\about.css.map",
+      "PackagePath": "staticwebassets\\style\\css\\about.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\css\\common\\_header.css",
+      "PackagePath": "staticwebassets\\style\\css\\common\\_header.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\css\\common\\_header.css.map",
+      "PackagePath": "staticwebassets\\style\\css\\common\\_header.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\css\\fun.css",
+      "PackagePath": "staticwebassets\\style\\css\\fun.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\css\\fun.css.map",
+      "PackagePath": "staticwebassets\\style\\css\\fun.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\css\\login.css",
+      "PackagePath": "staticwebassets\\style\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\css\\login.css.map",
+      "PackagePath": "staticwebassets\\style\\css\\login.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\css\\main.css",
+      "PackagePath": "staticwebassets\\style\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\style\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\scss\\about.scss",
+      "PackagePath": "staticwebassets\\style\\scss\\about.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\scss\\common\\_header.scss",
+      "PackagePath": "staticwebassets\\style\\scss\\common\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\scss\\fun.scss",
+      "PackagePath": "staticwebassets\\style\\scss\\fun.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\scss\\login.scss",
+      "PackagePath": "staticwebassets\\style\\scss\\login.scss"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\style\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\style\\scss\\main.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ExploreBakubk.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ExploreBakubk.props",
+      "PackagePath": "build\\ExploreBakubk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ExploreBakubk.props",
+      "PackagePath": "buildMultiTargeting\\ExploreBakubk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ExploreBakubk.props",
+      "PackagePath": "buildTransitive\\ExploreBakubk.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

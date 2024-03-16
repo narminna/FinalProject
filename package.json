@@ -1,15 +1,22 @@
 {
-  "name": "finalproject",
+  "name": "finalproject1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile:scss": "sass login.scss login.css",
-    "compile:scss:watch": "sass --watch login.scss login.css"
+    "compile:scss": "sass style/scss/login.scss style/css/login.css",
+    "compile:scss:watch": "sass --watch style/scss/login.scss style/css/login.css",
+    "compile:scss1": "sass style/scss/main.scss style/css/main.css",
+    "compile:scss:watch1": "sass --watch style/scss/main.scss style/css/main.css",
+    "compile:scss:watch2": "sass --watch style/scss/about.scss style/css/about.css",
+    "compile:scss:watch3": "sass --watch style/scss/common/_header.scss style/css/common/_header.css",
+    "compile:scss:watch4": "sass --watch style/scss/fun.scss style/css/fun.css",
+    "compile:scss:watch5": "sass --watch style/scss/group.scss style/css/group.css"
+
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sass": "^1.70.0"
+    "sass": "^1.71.1"
   }
 }

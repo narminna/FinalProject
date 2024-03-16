@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="/style/css/fun.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <title>Fun</title>
+</head>
+<body>
+    <header class="header">
+        <div class="top-bar flex gap-4 font-semibold text-white">
+            <a href="/html/main.html">Home</a>
+            <a href="/html/about.html">About</a>
+            <a href="#">Group List</a>
+            <a href="#">Contact</a>
+            <a href="/html/fun.html">Spots</a>
+        </div>
+        <div class="right flex text-[#fff] justify-center items-center gap-2">
+            <div class="search">
+                <div class="box">
+                    <input type="text" placeholder="Search...">
+                    <a href="#">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </a>
+                </div>
+            </div>
+            <i class="fa-solid fa-user text-[20px]"></i>
+        </div>
+    </header>
+    <!-- <section class="first ">
+        <div class="dropDown flex p-[80px]">
+            <div class="dropdown flex items-center">
+                <div class="select flex gap-[10px] w-[120px] justify-around">
+                    <span class="selected">All</span>
+                    <i class="fa-solid fa-chevron-down caret px-[10px]"></i>
+                </div>
+                <ul class="menu">
+                    <li class="active"><span>All</span></li>
+                    <li><span>Fun</span></li>
+                    <li><span>Aethetic</span></li>
+                    <li><span>Coffeeshop</span></li>
+                    <li><span>Creation</span></li>
+                </ul>
+            </div>
+            <div class="currency flex items-center px-[10px]">
+                <div class="select flex items-center w-[100px] gap-1">
+                    <span class="selected">USD</span>
+                    <i class="fa-solid fa-chevron-down caret "></i>
+                </div>
+                <ul class="menu">
+                    <li class="active">USD</li>
+                    <li>EUR</li>
+                    <li>GPB</li>
+                </ul>
+            </div>
+        </div>
+    </section> -->
+    <section class="py-[100px]">
+        <div class="wrapper">
+            <div id="search-container">
+                <input type="search" id="search-input" placeholder="Search by name...">
+                <button id="search">Search</button>
+            </div>
+            <div id="buttons">
+                <button class="btn" onclick="filterProduct('all')">All</button>
+                <button class="btn" onclick="filterProduct('Fun')">Fun</button>
+                <button class="btn" onclick="filterProduct('Aethetic')">Aethetic</button>
+                <button class="btn" onclick="filterProduct('Coffeeshop')">Coffeeshop</button>
+                <button class="btn" onclick="filterProduct('Handcraft')">Handcraft</button>
+                <button class="btn" onclick="filterProduct('Art')">Art</button>
+            </div>
+            <div id="products"></div>
+        </div>
+    </section>
+    <section>
+        <div class="cnt flex flex-col justify-center items-center py-[10px]">
+            <div class="e-mail">
+                <a data-auto-recognition="true" href="mailto:explrbaku22@gmail.com" class="text-[#19226b] text-[14px]">explrbaku24@gmail.com</a>
+            </div>
+            <div class="cont">
+                <span class="text-[#19226b] text-[14px] ">© ExploreBaku, 2024</span>
+            </div>
+        </div>
+    </section>
+</body>
+<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/fun.js"></script>
+</html>

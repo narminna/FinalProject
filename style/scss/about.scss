@@ -1,0 +1,25 @@
+@import "common/header";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+body{
+    background: #eaeaea;
+    overflow-x: hidden;
+    .second{
+        padding-top: 100px;
+    }
+    .third{
+        padding-top: 30px;
+        .img-cnt{
+            width: 100%;
+            img{
+                width: 100%;
+                height: 350px;
+                object-fit: fill;
+            }
+        }
+    }
+}

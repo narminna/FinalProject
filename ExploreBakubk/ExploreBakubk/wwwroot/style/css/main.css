@@ -1,0 +1,274 @@
+.header {
+  position: fixed;
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 100px;
+  z-index: 99;
+  background: transparent;
+  background-color: rgba(204, 200, 200, 0.5);
+  backdrop-filter: blur(10px);
+}
+.header .search {
+  width: max-content;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 30px;
+}
+.header .search .box {
+  padding: 10px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 10px 25px rgba(214, 17, 17, 0.3);
+  border-radius: 30px;
+  align-items: center;
+}
+.header .search .box:hover input {
+  width: 200px;
+}
+.header .search .box input {
+  border-radius: 50px;
+  width: 0;
+  outline: none;
+  border: none;
+  font-weight: 500;
+  transition: 0.8s;
+  color: black;
+  background: transparent;
+}
+.header .search .box a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header .search .box a i {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-size: 18px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: #eaeaea;
+  overflow-x: hidden;
+}
+body .first .container {
+  position: relative;
+  width: auto;
+  height: 600px;
+  background: #f5f5f5;
+  box-shadow: 0 30px 50px #dbdddb;
+}
+body .first .container .slide .item {
+  width: 200px;
+  height: 300px;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  border-radius: 20px;
+  box-shadow: 0 30px 50px #505050;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: inline-block;
+  transition: 0.5s;
+}
+body .first .container .slide .item:nth-child(1), body .first .container .slide .item:nth-child(2) {
+  top: 0;
+  transform: translate(0, 0);
+  border-radius: 0;
+  width: 100%;
+  height: 100%;
+}
+body .first .container .slide .item:nth-child(3) {
+  left: 50%;
+}
+body .first .container .slide .item:nth-child(4) {
+  left: calc(50% + 220px);
+}
+body .first .container .slide .item:nth-child(5) {
+  left: calc(50% + 440px);
+}
+body .first .container .slide .item:nth-child(n+6) {
+  left: calc(50% + 660px);
+  opacity: 0;
+}
+body .first .container .slide .item:nth-child(2) .content {
+  display: block;
+}
+body .first .container .slide .item .content {
+  position: absolute;
+  top: 50%;
+  left: 100px;
+  width: 300px;
+  text-align: left;
+  color: #eee;
+  transform: translate(0, -50%);
+  font-family: "Poppins", sans-serif;
+  display: none;
+}
+body .first .container .slide .item .content .name {
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+  opacity: 0;
+  animation: animate 1s ease-in-out 1 forwards;
+}
+body .first .container .slide .item .content .des {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  opacity: 0;
+  animation: animate 1s ease-in-out 0.3s 1 forwards;
+}
+body .first .container .slide .item .content button {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0;
+  animation: animate 1s ease-in-out 0.6s 1 forwards;
+}
+body .first .container .button {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  bottom: 20px;
+}
+body .first .container .button button {
+  width: 40px;
+  height: 35px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  margin: 0 5px;
+  border: 1px solid #eaeaea;
+  color: #bcbcbc;
+  transition: 0.3s;
+}
+body .first .container .button button:hover {
+  background: #ababab;
+  color: #fff;
+}
+body .second {
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body .second .container {
+  width: 950px;
+  border: 1px solid black;
+  height: 240px;
+}
+body .second .container .left img {
+  height: 240px;
+  width: 480px;
+}
+body .second .container .right {
+  display: flex;
+  align-items: center;
+}
+body .second .container .right .text-cnt {
+  padding-left: 20px;
+}
+body .second .container .right .text-cnt button {
+  color: black;
+  font-size: 16px;
+  font-weight: 200;
+  letter-spacing: 1px;
+  padding: 13px 20px 13px;
+  outline: 0;
+  border: 1px solid black;
+  cursor: pointer;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0);
+}
+body .second .container .right .text-cnt button:after {
+  content: "";
+  background-color: #6e76be;
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+  height: 100%;
+  top: 7px;
+  left: 7px;
+  transition: 0.2s;
+}
+body .second .container .right .text-cnt button:hover:after {
+  top: 0px;
+  left: 0px;
+}
+@media (min-width: 768px) {
+  body .second .container .right .text-cnt button {
+    padding: 13px 50px 13px;
+  }
+}
+body .third {
+  height: 400px;
+  background-image: url("/images/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+body .fourth {
+  color: #19226b;
+  background-color: #19226b;
+  padding: 60px;
+}
+body .fourth .right-cnt form input {
+  outline: none;
+  background-color: transparent;
+  border-bottom: 1px solid #000;
+  padding-bottom: 5px;
+}
+body .fourth .right-cnt form input::placeholder {
+  position: absolute;
+}
+body .fourth .right-cnt .button {
+  background-color: #19226b;
+  transition: background-color 0.3s ease;
+}
+body .fourth .right-cnt .button:hover {
+  background-color: #535cb1;
+}
+body .fourth .right-cnt .button span {
+  font-weight: 700;
+}
+body .fourth .map-cnt {
+  overflow-x: hidden;
+}
+body .fourth .map-cnt iframe {
+  width: 100%;
+  height: 450px;
+}
+body .fourth .cnt {
+  height: max-content;
+  padding-top: 50px;
+}
+
+@keyframes animate {
+  from {
+    opacity: 0;
+    transform: translate(0, 100px);
+    filter: blur(33px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0);
+    filter: blur(0);
+  }
+}
+
+/*# sourceMappingURL=main.css.map */

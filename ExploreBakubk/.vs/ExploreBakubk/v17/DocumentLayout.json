@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\controllers\\user\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\database\\explrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\database\\explrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\database\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\database\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\database\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\database\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\views\\html\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\views\\html\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\views\\html\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\views\\html\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\views\\html\\fun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\views\\html\\fun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\views\\html\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\views\\html\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\controllers\\admin\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\wwwroot\\js\\about.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\wwwroot\\js\\about.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|c:\\users\\user\\source\\repos\\explorebakubk\\explorebakubk\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5E1C8518-3A2C-46CF-874D-5A8CD7F0BF68}|ExploreBakubk\\ExploreBakubk.csproj|solutionrelative:explorebakubk\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Services\\IUserService.cs",
+              "RelativeToolTip": "ExploreBakubk\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:57:52.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Services\\UserService.cs",
+              "RelativeToolTip": "ExploreBakubk\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:56:32.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Web.config",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Web.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Web.config",
+              "RelativeToolTip": "ExploreBakubk\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-16T04:30:41.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Controllers\\User\\UserController.cs",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Controllers\\User\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Controllers\\User\\UserController.cs",
+              "RelativeToolTip": "ExploreBakubk\\Controllers\\User\\UserController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAADwv2kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:55:38.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ExploreBakubk\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:18:28.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExplrDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Database\\ExplrDbContext.cs",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Database\\ExplrDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Database\\ExplrDbContext.cs",
+              "RelativeToolTip": "ExploreBakubk\\Database\\ExplrDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:58:54.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Program.cs",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Program.cs",
+              "RelativeToolTip": "ExploreBakubk\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:02:33.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "ExploreBakubk\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:50:44.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExploreBakubk\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:31:10.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\appsettings.json",
+              "RelativeDocumentMoniker": "ExploreBakubk\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\appsettings.json",
+              "RelativeToolTip": "ExploreBakubk\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T02:03:38.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Views\\html\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Views\\html\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Views\\html\\Login.cshtml",
+              "RelativeToolTip": "ExploreBakubk\\Views\\html\\Login.cshtml",
+              "ViewState": "AQIAAA8AAAAALjMzMzMDwEsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T16:51:36.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Database\\User.cs",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Database\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Database\\User.cs",
+              "RelativeToolTip": "ExploreBakubk\\Database\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T02:01:59.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Views\\html\\About.cshtml",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Views\\html\\About.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Views\\html\\About.cshtml",
+              "RelativeToolTip": "ExploreBakubk\\Views\\html\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T17:12:26.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Fun.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Views\\html\\Fun.cshtml",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Views\\html\\Fun.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Views\\html\\Fun.cshtml",
+              "RelativeToolTip": "ExploreBakubk\\Views\\html\\Fun.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAgwFwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T17:12:52.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Posts.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Database\\Posts.cs",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Database\\Posts.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Database\\Posts.cs",
+              "RelativeToolTip": "ExploreBakubk\\Database\\Posts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:57:14.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Views\\html\\Main.cshtml",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Views\\html\\Main.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Views\\html\\Main.cshtml",
+              "RelativeToolTip": "ExploreBakubk\\Views\\html\\Main.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwDMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T17:13:23.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Controllers\\Admin\\AdminController.cs",
+              "RelativeDocumentMoniker": "ExploreBakubk\\Controllers\\Admin\\AdminController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\Controllers\\Admin\\AdminController.cs",
+              "RelativeToolTip": "ExploreBakubk\\Controllers\\Admin\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:55:26.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "about.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\js\\about.js",
+              "RelativeDocumentMoniker": "ExploreBakubk\\wwwroot\\js\\about.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\js\\about.js",
+              "RelativeToolTip": "ExploreBakubk\\wwwroot\\js\\about.js",
+              "ViewState": "AQIAAAMAAAAgzMzMzMwswA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-16T00:54:48.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "ExploreBakubk\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ExploreBakubk\\ExploreBakubk\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "ExploreBakubk\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwEMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-15T17:22:32.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
